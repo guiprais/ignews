@@ -52,7 +52,8 @@
     "react/function-component-definition": [2, { "namedComponents": "function-declaration" }],
     "prettier/prettier": "error",
     "import/prefer-default-export": "off",
-    "react/jsx-props-no-spreading": "off"
+    "react/jsx-props-no-spreading": "off",
+    "import/no-anonymous-default-export": "off"
   },
   "settings": {
     "import/resolver": {
